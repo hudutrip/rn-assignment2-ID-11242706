@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text style={styles.subContainer}>My name is <Text style={styles.format}>Hudu Suleman</Text></Text>
+      <Text style={styles.subContainer}>My name is <Text style={styles.format}>Suleman Hudu</Text></Text>
       <StatusBar style="auto" />
     </View>
   );
@@ -13,7 +13,7 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#38db',
+    backgroundColor: '#144',
     alignItems: 'center',
     justifyContent: 'center',
   },
